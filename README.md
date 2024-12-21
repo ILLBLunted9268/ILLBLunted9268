@@ -1,84 +1,71 @@
-
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "date": "2024-08-15T22:31:47Z",
-        "google_maps_url": "http://maps.google.com/?q=5349+Bayou+Dr,+Mt.+Juliet,+TN+37122&ftid=0x88643e3488362493:0xbcd59771c094898a",
-        "Comment": "No location information is available for this saved place"
-      },
-      "type": "Feature"
+createdTime": "2009-11-12T03:52:50.873Z",
+  "modifiedTime": "2024-11-05T09:39:19.779Z",
+  "deviceSettings": [{
+    "deviceTag": 1346410691,
+    "reportingEnabled": false,
+    "legalCountryCode": "us",
+    "devicePrettyName": "iPhone",
+    "platformType": "IOS",
+    "deviceCreationTime": "2024-08-15T03:13:53.180Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-08-15T03:13:53.180Z"
     },
-    {
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "date": "2014-07-25T12:06:50Z",
-        "google_maps_url": "http://maps.google.com/?q=Ferdinand, IN&ftid=0x886e5845a5c40277:0xc4759fb32ff4063a",
-        "Comment": "No location information is available for this saved place"
-      },
-      "type": "Feature"
+    "iosVersion": "18.1.1",
+    "deviceSpec": {
+      "device": "iPhone16,1"
     },
-    {
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "date": "2014-06-23T22:59:52Z",
-        "google_maps_url": "http://maps.google.com/?q=4004 Ashley Dr, Murfreesboro, TN 37128&ftid=0x8863f6d469734d2f:0xa40cacfba203a359",
-        "Comment": "No location information is available for this saved place"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -86.9075012,
-          36.1317787
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "date": "2014-06-23T20:46:08Z",
-        "google_maps_url": "http://maps.google.com/?cid=18268003324013639711",
-        "location": {
-          "address": "7044 Charlotte Pike, Nashville, TN 37209, United States",
-          "country_code": "US",
-          "name": "Walmart Supercenter"
-        }
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "date": "2014-06-17T18:33:09Z",
-        "google_maps_url": "http://maps.google.com/?q=Machine Falls Loop Tr White, Tullahoma, TN 37388&ftid=0x886163f8e8e29759:0xbcff66c672badb5c",
-        "Comment": "No location information is available for this saved place"
-      },
-      "type": "Feature"
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": false
     }
-  ]
+  }, {
+    "deviceTag": 784826232,
+    "reportingEnabled": false,
+    "legalCountryCode": "us",
+    "devicePrettyName": "iPhone",
+    "platformType": "IOS",
+    "deviceCreationTime": "2024-07-21T07:52:59.559Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-07-21T07:52:59.559Z"
+    },
+    "iosVersion": "18.1.1",
+    "deviceSpec": {
+      "device": "iPhone16,1"
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": false
+    }
+  }],
+  "hasReportedLocations": true,
+  "hasSetRetention": false,
+  "storeVisitControl": {
+    "enabled": true,
+    "updateTime": "2022-07-15T00:12:11.986219858Z"
+  },
+  "timelineEditUploadsControl": {
+    "enabled": true,
+    "updateTime": "2024-08-15T22:55:22.269163060Z"
+  },
+  "encryptedBackupsControls": {
+    "1346410691": {
+      "enabled": false
+    },
+    "784826232": {
+      "enabled": true,
+      "updateTime": "2024-11-05T09:39:19.779568600Z"
+    }
+  },
+  "retentionControl": {
+    "retentionWindowDays": 2147483647
+  },
+  "timelineEnabled": true,
+  "timelineDeletionTime": "2024-05-10T11:03:17.543Z",
+  "latestTimelineSettingChange": {
+    "timelineEnabledModificationTime": "2024-08-15T22:54:55.165Z"
+  },
+  "googleOpinionRewardsControl": {
+    "enabled": false,
+    "updateTime": "2024-08-02T22:20:27.652802641Z"
+  }
 }
