@@ -1,20 +1,84 @@
-10:00
-：三
-location_history
-Done
-{"Frequent Locations":
-["City": "hermitage", "Country": "usa", "Region":"tn'"}, {"City":"hermitage", "Country" "usa", "Region": "tn"}],"La test Location":
-["City": "hermitage", "Country" "usa", "Region": "tn'"}],"H ome & Work":
-{"inferredWork":"" "userProvidedHome":"", "userProvide dWork":"" "inferredHome":""},"Daily Top Locations":
-IK"Date: 2024-12-06 UTC":"lat 36.257 ‡ 4711.35 meters, long -86.54 ≤ 4711.35 meters"}]]," Top Locations Per Six-Day Period": [,"Location History": I["2024-12-06
-01:30:53 UTC", "36.231, -86.538"],["2024-12-06
-11:22:56 UTC" "36.231, -86.538"], ["2024-12-06
-01:30:51 UTC", "36.23046 $ 39.66 meters, -86.53786 $
-39.66 meters"], ["2024-12-06 02:13:07 UTC", "36.23113
-‡ 39.66 meters, -86.53786 ‡ 39.66 meters"], ["2024-12-06 02:13:23 UTC", "36.23113 ÷ 39.66 meters,
--86.53786 $ 39.66 meters "]],"Businesses and places you may have visited":"inferred VisitationList" :[l"Dukes Exteriors", "Mt Juliet"]],"businessList": []}, "Actiomoji information from places you may have visited": [], "Areas you may have visited in the last two years":
-K"Time":"2024/12/06 01:53:45
-UTC", "City" "hermitage", "Region": "Tennessee", "Postal Code":"37122"}, {"Time":"2024/12/06 11:23:02
-UTC" "City" :"hermitage", "Region": "Tennessee", "Postal Code":"37076"}]}
-凸
-Q
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-15T22:31:47Z",
+        "google_maps_url": "http://maps.google.com/?q=5349+Bayou+Dr,+Mt.+Juliet,+TN+37122&ftid=0x88643e3488362493:0xbcd59771c094898a",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2014-07-25T12:06:50Z",
+        "google_maps_url": "http://maps.google.com/?q=Ferdinand, IN&ftid=0x886e5845a5c40277:0xc4759fb32ff4063a",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2014-06-23T22:59:52Z",
+        "google_maps_url": "http://maps.google.com/?q=4004 Ashley Dr, Murfreesboro, TN 37128&ftid=0x8863f6d469734d2f:0xa40cacfba203a359",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.9075012,
+          36.1317787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2014-06-23T20:46:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=18268003324013639711",
+        "location": {
+          "address": "7044 Charlotte Pike, Nashville, TN 37209, United States",
+          "country_code": "US",
+          "name": "Walmart Supercenter"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2014-06-17T18:33:09Z",
+        "google_maps_url": "http://maps.google.com/?q=Machine Falls Loop Tr White, Tullahoma, TN 37388&ftid=0x886163f8e8e29759:0xbcff66c672badb5c",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    }
+  ]
+}
